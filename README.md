@@ -1,1 +1,0 @@
-# jobscraper-puppeteer
